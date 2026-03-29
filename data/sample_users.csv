@@ -1,0 +1,7 @@
+user_id,name,department,email,training_status
+U001,Ashley Miller,Finance,ashley.miller@examplecorp.local,completed
+U002,Devon Park,HR,devon.park@examplecorp.local,overdue
+U003,Jordan Lee,Engineering,jordan.lee@examplecorp.local,in-progress
+U004,Mia Patel,Sales,mia.patel@examplecorp.local,completed
+U005,Noah Reed,Customer Support,noah.reed@examplecorp.local,not started
+U006,Grace Chen,Operations,grace.chen@examplecorp.local,overdue

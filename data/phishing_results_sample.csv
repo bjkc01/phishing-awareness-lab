@@ -1,0 +1,9 @@
+result_id,user_id,campaign_id,template_id,clicked,submitted,reported,event_date
+R001,U001,C001,credential_harvest,yes,no,no,2026-03-10
+R002,U002,C001,invoice_phishing,yes,yes,no,2026-03-10
+R003,U003,C001,password_reset,no,no,yes,2026-03-10
+R004,U004,C001,credential_harvest,no,no,no,2026-03-10
+R005,U005,C001,invoice_phishing,yes,no,no,2026-03-10
+R006,U006,C001,password_reset,no,no,yes,2026-03-10
+R007,U002,C002,credential_harvest,yes,no,no,2026-04-14
+R008,U005,C002,password_reset,yes,yes,no,2026-04-14

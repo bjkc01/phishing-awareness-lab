@@ -1,0 +1,14 @@
+Subject: Please review the attached invoice for payment
+
+Hello [Employee Name],
+
+A vendor invoice has been submitted for your review. Please verify the attached amount and payment instructions.
+
+Visit the secure review page at:
+
+https://phishlab.test/fake-invoice-review
+
+This sample email is part of a training simulation. If this message appears suspicious, report it through the approved security channel.
+
+Regards,
+Vendor Management Simulation Team

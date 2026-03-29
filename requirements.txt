@@ -1,0 +1,3 @@
+# No external Python dependencies are required for this project.
+# The scripts use Python standard library modules only.
+# Recommended interpreter version: Python 3.10+
